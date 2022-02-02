@@ -31,7 +31,7 @@ module.exports = {
     'jsx-quotes': [ 2, 'prefer-double' ],
 
     'key-spacing': 0,
-    'new-cap': 0,
+    'new-cap': 0,0
 
     'no-bitwise': 0,
     'no-caller': 2,
